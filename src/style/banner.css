@@ -34,6 +34,7 @@
 }
 
 .banner-section .container {
+    width: 900px;
     z-index: 10;
 }
 
